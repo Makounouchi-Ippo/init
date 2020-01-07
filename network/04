@@ -1,0 +1,2 @@
+
+netstat -rn | grep default | head -n1
